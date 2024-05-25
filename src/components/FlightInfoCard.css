@@ -1,0 +1,24 @@
+.custom-card {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.custom-card-body {
+    padding: 1.25rem;
+    text-align: center;
+}
+
+.custom-card-title {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.custom-card-text {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
