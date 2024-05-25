@@ -16,6 +16,8 @@ To run the server on port 3000
 
 ### `npm start`
 
+To run the client
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3001) to view it in your browser.
 
